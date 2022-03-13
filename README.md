@@ -1,4 +1,4 @@
-# 利用規約(Villager-b(shimasan0x00) Web Service policy)
+# 利用規約 & (Villager-b(shimasan0x00) Web Service policy)
 
 ## Google Analyticsについて
 
@@ -9,7 +9,7 @@ Google 社がお客様の開発サービスの訪問履歴を収集，記録，�
 
 ユーザーは，開発サービスを利用することでcookieの使用に許可を与えたものとみなします．
 
-Villager-b(shimasan0x00)はGoogle 社からその分析結果を受け取り，お客様の本サイトの訪問状況を把握します．
+Villager-b(shimasan0x00)はGoogle 社からその分析結果を受け取り，お客様の開発サービスへの訪問状況を把握します．
 
 Google Analyticsにより収集，記録，分析されたお客様の情報には，特定の個人を識別する情報は一切含まれません．
 
